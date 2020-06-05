@@ -26,7 +26,7 @@ author:
   email:             asd315825@gmail.com
 
 # Fallback image and color
-image:               /assets/img/lion.jpg
+image:               /assets/img/lion.jpeg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
